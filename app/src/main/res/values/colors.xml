@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#337E9B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="deep_blue">#091130</color>
+    <color name="dark_grey">#5C5C5C</color>
+    <color name="title_blue">#122D4D</color>
+    <color name="light_grey">#F4F6F9</color>
+    <color name="apartment_details_price">#337E9B</color>
+    <color name="subtitle_color">#415770</color>
+    <color name="yellow">#EEA651</color>
+</resources>
